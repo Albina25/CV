@@ -107,6 +107,12 @@ export default {
   .projects_item {
     background-color: rgba(var(--lightgray-rgb), 0.5);
     width: 100%;
+    &:hover {
+      box-shadow: 0 0 15px 1px rgba(var(--green-rgb), 0.2) inset;
+    }
+    &:active {
+      background-color: rgba(var(--lightgray-rgb), 0.8);
+    }
 
     &-text {
       font-size: 0.8rem;
