@@ -22,8 +22,8 @@
 </template>
 
 <script>
-import IconEducation from "./icons/IconEducation";
 import IconWork from "./icons/IconWork";
+import IconEducation from "./icons/IconEducation";
 
 export default {
   name: "IconJob",
