@@ -63,8 +63,8 @@
 
 <script>
 import IconDesktop from "./icons/IconDesktop.vue";
-import IconKeyboard from "./icons/IconKeyboard.vue";
 import IconGraphic from "./icons/IconGraphic.vue";
+import IconKeyboard from "./icons/IconKeyboard.vue";
 
 export default {
   name: "my-skills",

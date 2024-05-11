@@ -80,17 +80,18 @@
 </template>
 
 <script>
-import CardStarted from "./components/CardStarted.vue";
+import MyWin from "./components/MyWin.vue";
 import AboutMe from "./components/AboutMe.vue";
-import ExperienceEducation from "./components/ExperienceEducation.vue";
 import MySkills from "./components/MySkills.vue";
 import MyProjects from "./components/MyProjects.vue";
-import MyWin from "./components/MyWin.vue";
+import CardStarted from "./components/CardStarted.vue";
+import ExperienceEducation from "./components/ExperienceEducation.vue";
+
 import IconMan from "./components/icons/IconMan.vue";
 import IconWin from "./components/icons/IconWin.vue";
 import IconSkills from "./components/icons/IconSkills.vue";
-import IconExperience from "./components/icons/IconExperience.vue";
 import IconProjects from "./components/icons/IconProjects.vue";
+import IconExperience from "./components/icons/IconExperience.vue";
 
 export default {
   name: "App",
