@@ -6,7 +6,7 @@
         <div class="column">
           <div>
             <div><icon-desktop class="icon-skills"></icon-desktop></div>
-            <h3 class="title-skills">front-end разработка</h3>
+            <h3 class="title-skills">web разработка</h3>
             <ul>
               <li
                 class="skill"
@@ -82,12 +82,16 @@ export default {
         "SCSS",
         "Java Script (ES6)",
         "Vue.js",
+        "TypeScript",
         "Nuxt.js",
-        "Yii2 (базовые знания)",
+        "Pinia",
+        "PHP",
+        "Yii2",
+        "PostgresSQL",
       ],
       moreSkills: [
         "GitHub/GitLab",
-        "WebPack",
+        "WebPack/Vite",
         "PhpStorm",
         "Работа по макетам Figma",
         "Deploy на продакшн",
